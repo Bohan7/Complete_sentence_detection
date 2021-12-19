@@ -1,5 +1,5 @@
-# Project 1 (EPFL Machine Learning Course CS-433)
-This is a repository for all code of project 1
+# Project 2 (EPFL Machine Learning Course CS-433)
+This is a repository for all code of project 2
 
 Members:
 Bohan Wang (321293)
