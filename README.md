@@ -11,8 +11,10 @@ Ke Wang (326760)
 Siran Li (321825)
 
 ## Notes
+The packages used in the projectcan be installed using:
 
-list all Python libraries that your notebooks depend on, and they will be installed using:
+``pip install transformers``
+``pip install ntlk``
 
 ## Structure
 **implementations.py:** contains **all function implementations** required by the project
