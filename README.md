@@ -10,6 +10,10 @@ Ke Wang (326760)
 
 Siran Li (321825)
 
+## Notes
+
+list all Python libraries that your notebooks depend on, and they will be installed using:
+
 ## Structure
 **implementations.py:** contains **all function implementations** required by the project
 
