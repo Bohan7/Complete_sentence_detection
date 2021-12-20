@@ -11,7 +11,7 @@ Ke Wang (326760)
 Siran Li (321825)
 
 ## Notes
-The packages used in the projectcan be installed using:
+The packages used in the project can be installed using:
 
 ``pip install transformers``
 
