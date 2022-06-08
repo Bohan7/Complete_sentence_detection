@@ -1,9 +1,5 @@
 # Complete Sentence Detection for Speech Recognition Systems
 
-## Project 2 (EPFL Machine Learning Course CS-433)
-
-This is a repository for all code of project 2
-
 Members:
 
 - Bohan Wang (321293)
